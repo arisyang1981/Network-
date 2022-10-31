@@ -14,7 +14,7 @@ https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/5hCsp/r
 https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/qjatI/reading-2-6-introduction-to-amazon-vpc 
 
 #VPC official documents in AWS \
-https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html
+https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html \
 You can create non-default VPC, and in VPC, create subnets.
 You can create internet gatway, then attach to non-default VPC, then VPC can access the internet.
 aws ec2 describe-vpcs
