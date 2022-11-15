@@ -19,5 +19,6 @@ https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/qjatI/r
 https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html \
 https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/2451d7b5-b7c5-4e72-960c-5e759c97dc23/watch \
 VPC, subnet, route table, gateway(internet,...), NACL(network access list, block/allow specific IP addresses), security group \
-## note: Block IP address using NACL, not security group
+****Note: Block IP address using NACL, not security group
+****Please read https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/2451d7b5-b7c5-4e72-960c-5e759c97dc23/watch, at 0:07:00.
 aws ec2 describe-vpcs
