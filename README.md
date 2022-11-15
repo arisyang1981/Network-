@@ -7,7 +7,9 @@ They are almost the same, but TLS is more secure, and updated. Use TLS if possib
 
 # Network CIDR block 
 https://whatismyipaddress.com/cidr \
-https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation
+https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation \
+#Internet CIDR visular
+https://cidr.xyz/
 
 # AWS network 
 https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/5hCsp/reading-2-5-networking-on-aws
