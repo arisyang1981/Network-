@@ -39,7 +39,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html#subnet-s
 3 In defualt, private subnet can't access the public internet. But NAT serice can allow private subnet to acccess the internet, but the internet can't access private subnet. https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html \ 
 4 Subnet has two componets: route table, and network ACL, can change after create subnet.
 # Subnet: route table, NACL vs security group
-https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html \ 
+https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html \
 Route table, which specifies the allowed routes for outbound traffic leaving the subnet. \
 Network ACLs control inbound and outbound traffic for your subnets. \
 Security groups control inbound and outbound traffic for your instances. \
