@@ -25,7 +25,7 @@ Please read https://learn.acloud.guru/course/certified-solutions-architect-assoc
 https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/d33bb8d7-8a9d-4f15-baed-f5d5c69bf71d/watch, at 5:10. 
 # 3 Subnet 
 One subnet is always in one AZ, can't span AZs. \
-Available IP range for subnet, 10.0.1.0/24, allocates 256 IP addresses, but available IP ranges for business, it's 251, other 5 are reserved. \
+Available IP range for subnet, 10.0.1.0/24, allocates 256 IP addresses, but 251 available IP ranges for business, between 4 and 254, other 5 are reserved. \
 https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/d33bb8d7-8a9d-4f15-baed-f5d5c69bf71d/watch, 7:35. \
 https://cidr.xyz/ \ 
 https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html#subnet-sizing \
