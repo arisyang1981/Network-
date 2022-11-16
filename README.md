@@ -21,6 +21,6 @@ https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e
 VPC, subnet, route table, gateway(internet,...), NACL(network access list, block/allow specific IP addresses), security group \
 1 Block IP address using NACL, not security group \
 Please read https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/2451d7b5-b7c5-4e72-960c-5e759c97dc23/watch, at 7:00. \
-2 When create a VPC, create 3 components automatically: security group, route tables, NACL. \,
-https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/d33bb8d7-8a9d-4f15-baed-f5d5c69bf71d/watch, at 5:15. \
+2 When create a VPC, create 3 components automatically: security group, route tables, NACL. \
+https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/d33bb8d7-8a9d-4f15-baed-f5d5c69bf71d/watch, at 5:10. \
 aws ec2 describe-vpcs
