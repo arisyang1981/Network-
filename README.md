@@ -25,6 +25,10 @@ Please read https://learn.acloud.guru/course/certified-solutions-architect-assoc
 https://learn.acloud.guru/course/certified-solutions-architect-associate/learn/e895e0dc-ee49-4a4e-9252-6018c96def38/d33bb8d7-8a9d-4f15-baed-f5d5c69bf71d/watch, at 5:10. \
 3 CIDR range, 16 to 28, means the count of IP range is 65536 to 16.\
 4 IP v4 vs IP V6. https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html \
+5 Internet gateway \
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html \
+An internet gateway enables resources in your public subnets (such as EC2 instances) to connect to the internet.
+Attach the internet gateway to VPC, and edit non-default route, add internet gateway into route, allow the route can access the internet.
 # Subnet 
 1 One subnet is always in one AZ, can't span AZs. \
 2 Available IP range for subnet, 10.0.1.0/24, allocates 256 IP addresses, but 251 available IP ranges for business, between 4 and 254, other 5 are reserved. \
