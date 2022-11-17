@@ -44,7 +44,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html#subnet-s
 4 Subnet has two componets: route table, and network ACL, can change after create subnet.
 # Subnet: route table, NACL vs security group
 https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html \
-Route table, which specifies the allowed routes for outbound traffic leaving the subnet. Outbound, subnet can access what. \
+Route table, which specifies the allowed routes for outbound traffic leaving the subnet. Outbound, subnet can access what. Control what IP/DNS can be accessed. \
 Network ACLs control inbound and outbound traffic for your subnets. NACL has the ability to block IP, security groups hasn't. Inbound and outbound, subnet can be accessed by what\
-Security groups control inbound and outbound traffic for your instances. Inbound and outbound, instance can be accessed by what\
+Security groups control inbound and outbound traffic for your instances. Inbound and outbound, instance can be accessed by what. Control network protocol, port.\
 aws ec2 describe-vpcs
