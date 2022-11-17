@@ -46,5 +46,5 @@ https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html#subnet-s
 https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html \
 Route table, which specifies the allowed routes for outbound traffic leaving the subnet. Outbound, subnet can access what. Control what IP/DNS can be accessed. \
 Network ACLs control inbound and outbound traffic for your subnets. NACL has the ability to block IP, security groups hasn't. Inbound and outbound, subnet can be accessed by what\
-Security groups control inbound and outbound traffic for your instances. Inbound and outbound, instance can be accessed by what. Control network protocol, port.\
+Security groups control inbound and outbound traffic for your instances. Inbound and outbound, instance can be accessed by what. Control network protocol, port, for example, allow inbound and oubound of ssh, open port 22.\
 aws ec2 describe-vpcs
