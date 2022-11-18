@@ -51,3 +51,7 @@ aws ec2 describe-vpcs
 
 ![image](https://user-images.githubusercontent.com/34925678/202599028-25f393e9-f453-43b9-95b8-3e5999da93c4.png)
 
+# NAT gateway
+# Security group
+# NACL 
+# VPC endpoint
