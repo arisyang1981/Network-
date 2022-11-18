@@ -48,3 +48,6 @@ Route table, which specifies the allowed routes for outbound traffic leaving the
 Network ACLs control inbound and outbound traffic for your subnets. NACL has the ability to block IP, security groups hasn't. Inbound and outbound, subnet can be accessed by what\
 Security groups control inbound and outbound traffic for your instances. Inbound and outbound, instance can be accessed by what. Control network protocol, port, for example, allow inbound and oubound of ssh, open port 22.\
 aws ec2 describe-vpcs
+
+![image](https://user-images.githubusercontent.com/34925678/202599028-25f393e9-f453-43b9-95b8-3e5999da93c4.png)
+
