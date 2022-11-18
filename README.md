@@ -40,7 +40,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html#subnet-s
 10.0.0.2: Reserved by AWS. The IP address of the DNS server is the base of the VPC network range plus two. For VPCs with multiple CIDR blocks, the IP address of the DNS server is located in the primary CIDR. We also reserve the base of each subnet range plus two for all CIDR blocks in the VPC. For more information, see Amazon DNS server. \
 10.0.0.3: Reserved by AWS for future use. \
 10.0.0.255: Network broadcast address. We do not support broadcast in a VPC, therefore we reserve this address. \
-3 In defualt, private subnet can't access the public internet. But NAT serice can allow private subnet to acccess the internet, but the internet can't access private subnet. https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html \ 
+3 In default, private subnet can't access the public internet. But NAT gateway can allow private subnet to acccess the internet, but the internet can't access private subnet. https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html \ 
 4 Subnet has two componets: route table, and network ACL, can change after create subnet.
 # Subnet: route table, NACL vs security group
 https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html \
