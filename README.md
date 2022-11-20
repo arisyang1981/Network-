@@ -55,3 +55,7 @@ aws ec2 describe-vpcs
 # Security group
 # NACL 
 # VPC endpoint
+
+# S3
+DNS \
+IPV4 vs IPV6 
