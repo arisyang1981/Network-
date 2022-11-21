@@ -5,6 +5,9 @@ https://www.ssl2buy.com/wiki/ssl-vs-tls \
 https://www.youtube.com/watch?v=J7fI_jH7L84 \
 They are almost the same, but TLS is more secure, and updated. Use TLS if possible.
 
+# How find your publie IP address in AWS.
+https://checkip.amazonaws.com/
+
 # Network CIDR block 
 https://whatismyipaddress.com/cidr \
 https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation \
